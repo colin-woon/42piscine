@@ -25,6 +25,9 @@ Piscine Batch #12, 42 Kuala Lumpur Campus (July-August)
 | C08      | 100%   |
 | C09      | 100%   |
 
+Note: Underscores ( _ ) shows how many retries made on the project, you should refer to the highest number for the correct code  
+(eg: c02_2, retried 2 times)  
+
 It was a great experience to learn from different peers. Do utilize these resources to help you get through your piscine.  
 - Ctutor (to visualize C code, helpful up until C07)  
 - ChatGPT (understand concepts faster, and can be used to check minor errors in your code)
