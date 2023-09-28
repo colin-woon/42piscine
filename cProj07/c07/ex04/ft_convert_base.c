@@ -9,6 +9,9 @@
 /*   Updated: 2023/08/22 19:10:47 by cwoon            ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
+
+/* Moulinette Score - KO*/
+
 #include <stdlib.h>
 
 int	check_space_n_sign(char *str, int *sign);
