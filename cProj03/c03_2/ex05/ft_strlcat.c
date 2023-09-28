@@ -10,6 +10,8 @@
 /*                                                                            */
 /* ************************************************************************** */
 
+/* Moulinette Score - OK*/
+
 unsigned int	ft_strlen(char *str)
 {
 	unsigned int	strlen;
