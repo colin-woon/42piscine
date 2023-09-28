@@ -10,6 +10,8 @@
 /*                                                                            */
 /* ************************************************************************** */
 
+/* Moulinette Score - OK*/
+
 #include <stdlib.h>
 
 int	char_match_seperator(char c, char *sep)
